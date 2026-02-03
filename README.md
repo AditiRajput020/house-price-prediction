@@ -46,5 +46,5 @@ This project takes user inputs such as location, housing details, and income inf
 
 ###  Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/house-price-prediction.git
+git clone https://github.com/AditiRajput020/house-price-prediction.git
 cd house-price-prediction
